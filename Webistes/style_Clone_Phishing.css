@@ -1,0 +1,102 @@
+
+.null {
+    height: 200px;
+}
+.one {
+    background-image: url(img/backround\ 1.png);
+    height: 500px;
+    margin: 0px;
+    margin-top: 0px;
+    display: flex;
+        
+    }
+.one_div_txt {
+    margin-top: -500px;
+    }
+.one_div_txt p {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 5px;
+    }
+.txt_first_peage {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    }
+.two {
+    background-image: url(img/backround\ 2.png);
+    display: flex;
+    background-color: blueviolet;
+    height: 500px;
+    margin: 0;
+    }
+.two_div_txt {
+    margin-top: -500px;
+    }
+.two_div_txt p {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 5px;
+    }
+.three {
+    background-image: url(img/backround\ 3.png);
+    background-color: rgb(162, 149, 173);
+    height: 500px;
+    display: flex;
+    }
+.three_div_txt {
+    margin-top: -500px;
+    }
+.three_div_txt p {
+    margin: 0px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    }
+       
+.foor {
+    height: 500px;
+    background-color: rgb(80, 101, 164);
+    display: flex;
+        
+    }
+.foor_div_txt {
+    margin-top: -500px;
+    }
+.foor_div_txt p {
+    margin: 0px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    }
+.five {
+    height: 500px;
+    background-color: rgb(105, 116, 146);
+    display: flex;
+        
+    }
+.five_div_txt {
+    margin-top: -500px;
+    }
+.five_div_txt p {
+    margin: 0px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    }
+.back {
+    height: 1000px;
+    margin: 0px;
+    background-color: rgb(133, 136, 186);
+}

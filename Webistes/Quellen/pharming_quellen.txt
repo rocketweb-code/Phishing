@@ -1,0 +1,6 @@
+https://www.proofpoint.com/us/threat-reference/pharming
+https://www.imperva.com/learn/application-security/pharming/
+https://learn.microsoft.com/en-us/security/pharming-attacks
+https://www.pandasecurity.com/en/mediacenter/security/pharming/
+https://www.trio.dev/blog/pharming-attacks
+https://techchannel.com/SMB/pharming-prevention-tips
