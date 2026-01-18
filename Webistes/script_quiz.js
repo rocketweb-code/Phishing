@@ -73,7 +73,7 @@ button_one_b.addEventListener("click", function() {
 // Frage 2 a
 button_two_a.addEventListener("click", function(){
     if (P_2_1 < 1){
-        output.textContent = "Richtig! very good.";
+        output.textContent = "Richtig!";
         output.style.color = "green";
         P_2_1++;
         P_2++;
@@ -125,7 +125,7 @@ button_three_a.addEventListener("click", function(){
 // Frage 3 b
 button_three_b.addEventListener("click", function(){
     if (P_3_1 < 1){
-        output.textContent = "Richtig! very good.";
+        output.textContent = "Richtig!";
         output.style.color = "green";
         P_3_1++;
         P_3++;
@@ -174,4 +174,5 @@ button_foor_b.addEventListener("click", function(){
         }
     }
     else {}
+
 })
