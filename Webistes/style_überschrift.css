@@ -21,7 +21,7 @@ header {
     font-size: 35px;
 }
 .Überschrift h1 {
-    margin-left: 5px;
+    margin-left: 10px;
 }
 .Links {
     display: flex;
@@ -58,3 +58,4 @@ header {
     height: 200px;
 
 }
+
